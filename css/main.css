@@ -1,0 +1,8 @@
+body {
+    background-color: #c5c6c6;
+}
+
+#ejercicio{
+    border-radius: 2cm;
+    border: solid, 1cm, black;
+}
